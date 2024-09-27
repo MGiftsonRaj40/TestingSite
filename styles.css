@@ -878,6 +878,7 @@ footer {
         position: relative  ;
         margin-top: 80px;
         width: 90%;
+        left: 50%;
         transform: translate(-50%, -50%);
     } 
     #serve, #book{
